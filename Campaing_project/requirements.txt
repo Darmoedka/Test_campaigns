@@ -1,0 +1,8 @@
+Fastapi
+Uvicorn [standart]
+sqlalchemy>=2.0
+psycopg2
+alembic
+pydantic>=2.0
+pytest
+httpx
